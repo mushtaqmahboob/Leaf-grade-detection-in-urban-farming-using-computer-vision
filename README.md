@@ -21,3 +21,10 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 - leaf_quality_detection.ipynb ---> This file contains the actual code of the project.
 - dataset ---> This folder contains the dataset used for the project.
 ```
+
+## Dataset
+
+Publicly available data set is used for the project. The name of the dataset is "PlantVillage Disease Classification".
+It was first published by crowdAI and has over 54,000 images of leaves collected under controlled environment. 
+The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.
+
