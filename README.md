@@ -13,4 +13,11 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 6. [Model Training](#lists-in-markdown)
 7. [Model Evaluation](#necessary-things-for-a-readme)
 8. [Testing](#)
-9.
+
+## Manifest
+
+```
+- README.md ----> This markdown file you are reading.
+- leaf_quality_detection.ipynb ---> This file contains the actual code of the project.
+- dataset ---> This folder contains the dataset used for the project.
+```
