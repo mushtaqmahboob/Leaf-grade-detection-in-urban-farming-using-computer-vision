@@ -29,8 +29,12 @@ It was first published by crowdAI and has over 54,000 images of leaves collected
 The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.
 
 let's download the dataset first, the dataset is stored in a GDrive for which you need unique ID. We can use the URL mentioned below to download it
+I prefer using google colab because it already has many machine learning modules pre loaded or its very simple to add them with the 'pip' command.
 
 ![Downloading Dataset](images/1.JPG)
+
+After you download the dataset, next step is to setup your google colab notebook by downloading all the necessary libraries as shown below.
+![Downloading Libraries](images/2.JPG)
 
 
 
