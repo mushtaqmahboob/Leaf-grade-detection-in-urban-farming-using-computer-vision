@@ -30,7 +30,7 @@ The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach
 
 let's download the dataset first, the dataset is stored in a GDrive for which you need unique ID. We can use the URL mentioned below to download it
 
-![Downloading Dataset](img/python.png)
+![Downloading Dataset](images/1.jpg)
 
 
 
