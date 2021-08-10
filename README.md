@@ -28,3 +28,9 @@ Publicly available data set is used for the project. The name of the dataset is 
 It was first published by crowdAI and has over 54,000 images of leaves collected under controlled environment. 
 The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.
 
+let's download the dataset first, the dataset is stored in a GDrive for which you need unique ID. We can use the URL mentioned below to download it
+
+![Downloading Dataset](img/python.png)
+
+
+
