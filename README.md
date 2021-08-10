@@ -33,7 +33,10 @@ I prefer using google colab because it already has many machine learning modules
 
 ![Downloading Dataset](images/1.JPG)
 
-After you download the dataset, next step is to setup your google colab notebook by downloading all the necessary libraries as shown below.
+
+After you download the dataset, next step is to setup your google colab notebook 
+by downloading all the necessary libraries as shown below.
+
 ![Downloading Libraries](images/2.JPG)
 
 
