@@ -160,6 +160,8 @@ We randomly choose images from the dataset and try predicting class image for te
 
 ![](images/14.JPG)
 
+We succesfully predited the class the leaves belongs to.
+
 
 **_Feel free to contact me if you have any suggestions or queries._**
 **_Thank you for reading!_**
