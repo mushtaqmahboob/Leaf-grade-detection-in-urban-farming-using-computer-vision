@@ -12,7 +12,8 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 5. [Data Augmentation](#Data-Augmentation)
 6. [Model Training](#Model-Training)
 7. [Model Evaluation](#Model-evaluation)
-8. [Testing & Evaluation](#Testing)
+8. [Training & Evaluation](#Training)
+9. [Testing](#Testing)
 
 ## Manifest
 
@@ -140,3 +141,5 @@ we see that;
 2. As training loss decreases, validation loss decreases.
 - Better result can be obtained by tweaking learning rate or by training on more images.
 -To check test accuracy of a model we trained on, use evaluate() method.
+
+## Testing
