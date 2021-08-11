@@ -54,8 +54,9 @@ Now, to make images fit for training, we need to resize the input dataset images
 
 Iterate through the images and load them to numpy
 
-![](images/4.JPG)
+![](images/5.JPG)
 
 we then map each class of each plant to a unique value for the training.
 
+![](images/6.JPG)
 
