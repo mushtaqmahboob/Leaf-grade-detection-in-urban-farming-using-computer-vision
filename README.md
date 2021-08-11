@@ -182,8 +182,8 @@ We succesfully predited the class the leaves belongs to.
 The Project currently has no license and is open source.
 
 ## Project status
-- The project has succesfully reached its version 1.0
+- The project has succesfully reached its version 1.0 where we succesfully detect the class of a specified image.
 - Future ideas to enhance the project can be an android/iOS app that can be handy.
-- The scalability can be increased.
+- The scalability can be increased using the cloud based solution.
 
 
