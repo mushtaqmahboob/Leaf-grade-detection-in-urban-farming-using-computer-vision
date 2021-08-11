@@ -39,7 +39,7 @@ by downloading all the necessary libraries as shown below.
 
 ![Downloading Libraries](images/2.JPG)
 
-## Data pre-processing
+## Data preprocessing
 The next basic step to do after loading data is data preprocessing. For that we need to first understand what the data is then see various samples of the data to understand it better. Before that we need to define couple of variables to perform data preprocessing. Follow the steps as mentioned below.
 
 ![Defining variables before preprocessing](images/3.JPG)
