@@ -44,6 +44,10 @@ The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach
 let's download the dataset first, the dataset is stored in a GDrive for which you need unique ID. We can use the URL mentioned below to download it
 I prefer using google colab because it already has many machine learning modules pre loaded or its very simple to add them with the 'pip' command.
 
+```bash
+pip install "package-name"
+```
+
 
 
 ```py
@@ -171,5 +175,11 @@ We succesfully predited the class the leaves belongs to.
 1. [Paper on PlantVillage Dataset](https://arxiv.org/abs/1511.08060)
 2. [Plant Disease Detection using Convolutional Neural Network](https://towardsdatascience.com/plant-ai-plant-disease-detection-using-convolutional-neural-network-9b58a96f2289)
 
+## License
+The Project currently has no license and is open source.
+
+## Project status
+- The project has succesfully reached its version 1.0
+- Future ideas to enhance the project can be an android/iOS app that can be handy.
 
 
