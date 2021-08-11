@@ -18,6 +18,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 
 ```
 - README.md ----> This markdown file you are reading.
+- images ---> This file contains all the images used in the readme file.
 - leaf_quality_detection.ipynb ---> This file contains the actual code of the project.
 - dataset ---> This folder contains the dataset used for the project.
 ```
@@ -59,4 +60,10 @@ Iterate through the images and load them to numpy
 we then map each class of each plant to a unique value for the training.
 
 ![](images/6.JPG)
+
+In the end, we split the dataset into two sets, training & testing sets with a 0.2 split ratio. 
+To train the classification model we use training set and tesingt set to validate the model.
+
+![](images/7.JPG)
+
 
