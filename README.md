@@ -8,9 +8,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 - If you want to contribute to this project, send me a pull request and send a message on twitter, i'll give you access.
 
 - Author
-   1. Mushtaq Mahboob ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)
-  
-)  
+   1. Mushtaq Mahboob ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)  
 
 ## Table of Contents
 
