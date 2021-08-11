@@ -8,7 +8,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 1. [Manifest](#manifest)
 2. [Dataset](#dataset)
 3. [Libraries](#Libraries)
-4. [Data Preprocessing](#Data-Processing)
+4. [Data Preprocessing](#Data-preprocessing)
 5. [Data Augmentation](#Data-Augmentation)
 6. [Model Training](#Model-Training)
 7. [Model Evaluation](#Model-evaluation)
