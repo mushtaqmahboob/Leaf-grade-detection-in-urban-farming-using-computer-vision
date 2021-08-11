@@ -12,7 +12,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 5. [Data Augmentation](#Data-Augmentation)
 6. [Model Training](#Model-Training)
 7. [Model Evaluation](#Model-evaluation)
-8. [Testing](#Testing)
+8. [Testing & Evaluation](#Testing)
 
 ## Manifest
 
@@ -130,6 +130,5 @@ The next step is,
 Before training our model, initialize optimizer with learning rate and decay parameters. 
 We select the Adam optimization technique (faster and better global minimum convergence).
 
-
-
-
+## Evakuation
+Plot a graph to compare the accuracy achieved by the model while minimizing loss during training period.
