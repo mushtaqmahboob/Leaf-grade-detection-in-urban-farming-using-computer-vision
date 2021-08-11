@@ -23,7 +23,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 7. [Model Evaluation](#Model-evaluation)
 8. [Training & Evaluation](#Training)
 9. [Testing](#Testing)
-10. [Reference](#References)
+10. [References](#References)
 
 ## Manifest
 
