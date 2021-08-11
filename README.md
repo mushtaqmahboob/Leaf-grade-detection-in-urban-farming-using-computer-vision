@@ -143,3 +143,5 @@ we see that;
 -To check test accuracy of a model we trained on, use evaluate() method.
 
 ## Testing
+
+We randomly choose images from the dataset and try predicting class image for testing.
