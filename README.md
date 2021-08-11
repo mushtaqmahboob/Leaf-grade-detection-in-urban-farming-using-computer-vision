@@ -72,6 +72,10 @@ This technique is used to increase number of images in a dataset. Operations suc
 
 ![](images/7.JPG)
 
+## Model
+
+Define the hyperparameters of our classification model. Execute them in a new cell it makes it easy for us to tweak them later.
+
 
 
 
