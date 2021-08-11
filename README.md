@@ -64,6 +64,14 @@ we then map each class of each plant to a unique value for the training.
 In the end, we split the dataset into two sets, training & testing sets with a 0.2 split ratio. 
 To train the classification model we use training set and tesingt set to validate the model.
 
+![](images/8.JPG)
+
+## Data Augmentation
+
+This technique is used to increase number of images in a dataset. Operations such as shift, rotation, zoom, and flip are performed on the image dataset to increase various perspective of the image.
+
 ![](images/7.JPG)
+
+
 
 
