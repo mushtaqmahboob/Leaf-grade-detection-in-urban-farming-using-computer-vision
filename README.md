@@ -8,11 +8,11 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 1. [Manifest](#manifest)
 2. [Dataset](#dataset)
 3. [Libraries](#Libraries)
-4. [Data Preprocessing](embedding-links)
-5. [Data Augmentation](#embedding-images)
-6. [Model Training](#lists-in-markdown)
-7. [Model Evaluation](#necessary-things-for-a-readme)
-8. [Testing](#)
+4. [Data Preprocessing](#Data Processing)
+5. [Data Augmentation](#Data Augmentation)
+6. [Model Training](#Model Training)
+7. [Model Evaluation](#Model evaluation)
+8. [Testing](#Testing)
 
 ## Manifest
 
@@ -39,7 +39,7 @@ by downloading all the necessary libraries as shown below.
 
 ![Downloading Libraries](images/2.JPG)
 
-
+## Data processing
 The next basic step to do after loading data is data preprocessing. For that we need to first understand what the data is then see various samples of the data to understand it better. Before that we need to define couple of variables to perform data preprocessing. Follow the steps as mentioned below.
 
 ![Defining variables before preprocessing](images/3.JPG)
