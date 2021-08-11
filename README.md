@@ -130,5 +130,13 @@ The next step is,
 Before training our model, initialize optimizer with learning rate and decay parameters. 
 We select the Adam optimization technique (faster and better global minimum convergence).
 
-## Evakuation
+## Evaluation
 Plot a graph to compare the accuracy achieved by the model while minimizing loss during training period.
+
+![](images/12.JPG)
+
+we see that;
+1. As training accuracy increases, validation accuracy increases. 
+2. As training loss decreases, validation loss decreases.
+- Better result can be obtained by tweaking learning rate or by training on more images.
+-To check test accuracy of a model we trained on, use evaluate() method.
