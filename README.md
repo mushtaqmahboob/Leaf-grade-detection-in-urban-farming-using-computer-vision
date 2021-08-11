@@ -6,8 +6,11 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 - Follow the table of contents for easy understanding of the installation instructions and roadmap of the project.
 - For any queries / support regarding the project contact   ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)
 - If you want to contribute to this project, send me a pull request and send a message on twitter, i'll give you access.
+
 - Author
-      1. Mushtaq Mahboob ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)  
+   1. Mushtaq Mahboob ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)
+  
+)  
 
 ## Table of Contents
 
