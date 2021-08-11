@@ -4,7 +4,7 @@
 Untrained gardeners and urban plant care takers have little knowledge of plants and identifying deteriorating leaves and plant quality. The reasons can be ranging from lack of insufficient water to excess use of manure or fertilizer. The leaf grade or quality detection can be very helpful for the people who grow plants and herbs in urban areas. Lack of understanding of the plants and leaf quality can eventually damage them permanently causing environmental as well as economic loss. Identifying the symptoms of deteriorating leaves using advanced machine learning techniques like computer vision can help these urban farmers save a lot of resources. This paper presents existing works and methods of identifying the leaves, processing the images and identifying the type of flaws or diseases the leaves are developing.
 
 - Follow the table of contents for easy understanding of the installation instructions and roadmap of the project.
-- For any queries regarding the project contact ![social](https://img.shields.io/github/followers/mushtaqmahboob?style=social)
+- For any queries regarding the project contact   ![social](https://img.shields.io/twitter/follow/mushtaqakram?style=social)
 
 ## Table of Contents
 
