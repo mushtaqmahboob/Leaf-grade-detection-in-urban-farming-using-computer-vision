@@ -77,7 +77,6 @@ from sklearn.model_selection import train_test_split
 ## Data preprocessing
 The next basic step to do after loading data is data preprocessing. For that we need to first understand what the data is then see various samples of the data to understand it better. Before that we need to define couple of variables to perform data preprocessing. Follow the steps as mentioned below.
 
-![Defining variables before preprocessing](images/3.JPG)
 
 1. Resize raw dataset images to the DEFAULT_IMAGE_SIZE so it can match the input shape of the main(primary) layer of the neural network.
 2. Each directory of dataset varies in the number of pictures. we select the first N_IMAGES from each directory instead of all the images.
@@ -87,13 +86,10 @@ Now, to make images fit for training, we need to resize the input dataset images
 
 ![Convert or resize images](images/4.JPG)
 
-Iterate through the images and load them to numpy
+- Iterate through the images and load them to numpy
 
-![](images/5.JPG)
 
-we then map each class of each plant to a unique value for the training.
-
-![](images/6.JPG)
+- we then map each class of each plant to a unique value for the training.
 
 In the end, we split the dataset into two sets, training & testing sets with a 0.2 split ratio. 
 To train the classification model we use training set and tesingt set to validate the model.
@@ -110,7 +106,16 @@ This technique is used to increase number of images in a dataset. Operations suc
 
 Define the hyperparameters of our classification model. Execute them in a new cell it makes it easy for us to tweak them later.
 
-![](images/9.JPG)
+```py
+EPOCHS = 25
+STEPS = 100
+LR = 1e-3
+BATCH_SIZE = 32
+WIDTH = 256
+HEIGHT = 256
+DEPTH = 3
+
+```
 
 The next step is, 
 1. we create a sequential model for our classification . 
@@ -119,7 +124,6 @@ The next step is,
 4. create two blocks of 2 Dimentional Convolutional layer with filters = 64 and ReLU activation.
 5.  Repeat this step for the last set of layers with filters = 128.
 
-![](images/10.JPG)
 
 ## Training
 
