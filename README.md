@@ -184,5 +184,6 @@ The Project currently has no license and is open source.
 ## Project status
 - The project has succesfully reached its version 1.0
 - Future ideas to enhance the project can be an android/iOS app that can be handy.
+- The scalability can be increased.
 
 
