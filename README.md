@@ -14,6 +14,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 7. [Model Evaluation](#Model-evaluation)
 8. [Training & Evaluation](#Training)
 9. [Testing](#Testing)
+10. [Reference](#References)
 
 ## Manifest
 
@@ -149,3 +150,9 @@ We randomly choose images from the dataset and try predicting class image for te
 ![](images/13.JPG)
 
 ![](images/14.JPG)
+
+## References
+
+1. [Paper on PlantVillage Dataset](https://arxiv.org/abs/1511.08060)
+2. [Plant Disease Detection using Convolutional Neural Network](https://towardsdatascience.com/plant-ai-plant-disease-detection-using-convolutional-neural-network-9b58a96f2289)
+
