@@ -161,8 +161,8 @@ We randomly choose images from the dataset and try predicting class image for te
 ![](images/14.JPG)
 
 
-**_Feel free to comment if you have any suggestions or queries._**
-_Thank you for reading!_
+**_Feel free to contact me if you have any suggestions or queries._**
+**_Thank you for reading!_**
 
 ## References
 
