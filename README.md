@@ -6,8 +6,8 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 ## Table of Contents
 
 1. [Manifest](#manifest)
-2. [Dataset](#style-examples)
-3. [Libraries](#embedding-code)
+2. [Dataset](#dataset)
+3. [Libraries](#Libraries)
 4. [Data Preprocessing](embedding-links)
 5. [Data Augmentation](#embedding-images)
 6. [Model Training](#lists-in-markdown)
