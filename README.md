@@ -31,7 +31,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 ## Manifest
 
 ```
-- README.md ----> This markdown file you are reading.
+- README.md ----> This file you are reading which has all the instructions and clear explanation of the project.
 - images ---> This file contains all the images used in the readme file.
 - leaf_quality_detection.ipynb ---> This file contains the actual code of the project.
 - dataset ---> This folder contains the instructions to download the dataset used for the project.
