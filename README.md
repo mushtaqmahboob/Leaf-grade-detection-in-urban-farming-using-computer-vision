@@ -76,7 +76,7 @@ This technique is used to increase number of images in a dataset. Operations suc
 
 Define the hyperparameters of our classification model. Execute them in a new cell it makes it easy for us to tweak them later.
 
-![](images/8.JPG)
+![](images/9.JPG)
 
 The next step is, 
 1. we create a sequential model for our classification . 
@@ -85,6 +85,12 @@ The next step is,
 4. create two blocks of 2 Dimentional Convolutional layer with filters = 64 and ReLU activation.
 5.  Repeat this step for the last set of layers with filters = 128.
 
+![](images/10.JPG)
+
+## Training
+
+Before training our model, initialize optimizer with learning rate and decay parameters. 
+We select the Adam optimization technique (faster and better global minimum convergence).
 
 
 
