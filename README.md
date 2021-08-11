@@ -147,3 +147,5 @@ we see that;
 We randomly choose images from the dataset and try predicting class image for testing.
 
 ![](images/13.JPG)
+
+![](images/14.JPG)
