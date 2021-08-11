@@ -54,7 +54,7 @@ pip install "package-name"
 
 
 ```py
-# Download a file based on its file ID.
+
 file_id = '18DbC6Xj4NP-hLzI14WuMaAEyq482vNfn'
 
 # Download dataset
