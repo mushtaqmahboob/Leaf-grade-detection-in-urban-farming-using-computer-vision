@@ -32,7 +32,19 @@ The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach
 let's download the dataset first, the dataset is stored in a GDrive for which you need unique ID. We can use the URL mentioned below to download it
 I prefer using google colab because it already has many machine learning modules pre loaded or its very simple to add them with the 'pip' command.
 
-![Downloading Dataset](images/1.JPG)
+
+
+```py
+# Download a file based on its file ID.
+file_id = '18DbC6Xj4NP-hLzI14WuMaAEyq482vNfn'
+
+# Download dataset
+!gdown https://drive.google.com/uc?id={file_id}
+
+# Unzip the downloaded file
+!unzip -q PlantVillage.zip
+}
+```
 
 ## Libraries
 After you download the dataset, next step is to setup your google colab notebook 
