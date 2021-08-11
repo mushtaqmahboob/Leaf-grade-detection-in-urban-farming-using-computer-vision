@@ -44,5 +44,11 @@ The next basic step to do after loading data is data preprocessing. For that we 
 
 ![Defining variables before preprocessing](images/3.JPG)
 
+1. Resize raw dataset images to the DEFAULT_IMAGE_SIZE so it can match the input shape of the main(primary) layer of the neural network.
+2. Each directory of dataset varies in the number of pictures. we select the first N_IMAGES from each directory instead of all the images.
+3. to access plant images set the path of the dataset in the root_dir.
 
+Now, to make images fit for training, we need to resize the input dataset images.
+
+![Convert or resize images](images/4.JPG)
 
