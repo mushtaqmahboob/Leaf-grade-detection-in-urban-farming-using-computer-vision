@@ -25,6 +25,7 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 
 ## Dataset
 
+- Click [here](https://drive.google.com/uc?id=18DbC6Xj4NP-hLzI14WuMaAEyq482vNfn) to download the dataset.
 Publicly available data set is used for the project. The name of the dataset is "PlantVillage Disease Classification".
 It was first published by crowdAI and has over 54,000 images of leaves collected under controlled environment. 
 The dataset had 14 species; Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.
@@ -71,7 +72,7 @@ from keras.preprocessing.image import img_to_array
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.model_selection import train_test_split
 
-```)
+```
 
 ## Data preprocessing
 The next basic step to do after loading data is data preprocessing. For that we need to first understand what the data is then see various samples of the data to understand it better. Before that we need to define couple of variables to perform data preprocessing. Follow the steps as mentioned below.
