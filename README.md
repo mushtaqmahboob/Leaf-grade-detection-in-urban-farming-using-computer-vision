@@ -24,6 +24,8 @@ Untrained gardeners and urban plant care takers have little knowledge of plants 
 8. [Training & Evaluation](#Training)
 9. [Testing](#Testing)
 10. [References](#References)
+11. [License](#License)
+12. [Project Status](#Project-status)
 
 ## Manifest
 
