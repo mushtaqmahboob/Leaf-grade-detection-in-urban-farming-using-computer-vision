@@ -56,4 +56,6 @@ Iterate through the images and load them to numpy
 
 ![](images/4.JPG)
 
+we then map each class of each plant to a unique value for the training.
+
 
