@@ -160,6 +160,9 @@ we see that;
 -To check test accuracy of a model we trained on, use evaluate() method.
 
 To Check how our model is performing, we can use a simple function to measure its accuracy "model.evaluate(x_test, y_test)".
+You can see below the accuracy of our model.
+
+![](images/91.JPG)
 
 
 ## Testing
