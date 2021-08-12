@@ -188,7 +188,7 @@ We succesfully predited the class the leaves belongs to.
 The Project currently has no license and is open source.
 
 ## Project status
-- The project has succesfully reached its version 1.0 where we succesfully detect the class of a specified image.
+- The project has successfully reached its version 1.0 where we successfully detect the class of a specified image.
 - It has been developed using the above references and some of the code has been re-used because of the stability of it.
 - The project needs further development to reach a stage were it can be used as an actual tool to detect diseases.
 - Future ideas to enhance the project can be an android/iOS app that can be handy.
