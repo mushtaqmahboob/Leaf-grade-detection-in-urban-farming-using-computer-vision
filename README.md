@@ -159,6 +159,9 @@ we see that;
 - Better result can be obtained by tweaking learning rate or by training on more images.
 -To check test accuracy of a model we trained on, use evaluate() method.
 
+To Check how our model is performing, we can use a simple function to measure its accuracy "model.evaluate(x_test, y_test)".
+
+
 ## Testing
 
 We randomly choose images from the dataset and try predicting class image for testing.
