@@ -203,7 +203,7 @@ We randomly choose images from the dataset and try predicting class image for te
 We succesfully predited the class the leaves belongs to.
 
 
-**_Feel free to contact me if you have any suggestions or queries._**
+**_Feel free to contact me if you want to suggest anything or you have any questions._**
 **_Thank you for reading!_**
 
 ## References
