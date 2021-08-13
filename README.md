@@ -127,13 +127,25 @@ def convert_image_to_array(image_dir):
 In the end, we split the dataset into two sets, training & testing sets with a 0.2 split ratio. 
 To train the classification model we use training set and tesingt set to validate the model.
 
-![](images/8.JPG)
+
+```py
+
+print("[INFO] Splitting data to train and test...")
+x_train, x_test, y_train, y_test = train_test_split(np_image_list, image_labels, test_size=0.2, random_state = 42) 
+
+```
 
 ## Data Augmentation
 
 This technique is used to increase number of images in a dataset. Operations such as shift, rotation, zoom, and flip are performed on the image dataset to increase various perspective of the image.
 
-![](images/7.JPG)
+```py
+
+augment = ImageDataGenerator(rotation_range=25, width_shift_range=0.1,
+                             height_shift_range=0.1, shear_range=0.2, 
+                             zoom_range=0.2, horizontal_flip=True, 
+                             fill_mode="nearest")
+```
 
 ## Model
 
